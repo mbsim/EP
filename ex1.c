@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+char c = 'Z';
+char *p = &c;
+
+printf("%c\n", c);
+
+return 0;
+}
